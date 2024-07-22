@@ -63,5 +63,5 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-  <h1>Thankyou, Happy Learning...edited!</h1>
+  <h1>Thankyou, Happy Learning...edited again!</h1>
 </form>
