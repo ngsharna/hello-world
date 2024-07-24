@@ -8,7 +8,7 @@
     <input
       type="text"
       placeholder="Enter Full Name"
-      name="Name"
+      name="EnterName"
       id="Name"
       required
     />
